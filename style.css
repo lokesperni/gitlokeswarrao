@@ -1,4 +1,12 @@
-.{
-    color: red;
-    background-color: blue;
+#h4{
+    color: chocolate;
+    background-color: aqua;
+}
+#h5{
+    color: blueviolet;
+    background-color: cornflowerblue;
+}
+#h6{
+    color: darkgoldenrod;
+    background-color: darkorchid;
 }
